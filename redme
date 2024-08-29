@@ -1,0 +1,4 @@
+#docker build -t monitor_process .
+#Execute o contêiner, passando o nome ou ID do processo que deseja monitorar:
+#Code
+#docker run --rm monitor_process <nome_ou_id_do_processo>
